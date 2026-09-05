@@ -1,7 +1,14 @@
-# 🌐 Ron Holmes Jr  
-### *IT Student | MyComputerCareer | Future Systems Administrator*
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub-0078D6?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-Welcome to my GitHub! I’m **Ron Holmes Jr**, an IT student currently progressing through my certification track at **MyComputerCareer**. I’m building a strong foundation in networking, system administration, cybersecurity, and hands‑on troubleshooting. This profile showcases my learning journey, projects, and growing skill set.
+<h1 align="center">🌐 Ron Holmes Jr</h1>
+<h3 align="center">IT Student | MyComputerCareer | Future Systems Administrator</h3>
+
+<p align="center">
+  Building my foundation in IT, networking, cybersecurity, and system administration.
+</p>
 
 ---
 
@@ -24,7 +31,7 @@ Welcome to my GitHub! I’m **Ron Holmes Jr**, an IT student currently progressi
 ## 🎓 Education
 ![MyComputerCareer](https://img.shields.io/badge/MyComputerCareer-0056A6?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-I’m currently in my **second certification class**, expanding my knowledge in IT fundamentals, networking, and system administration.
+Currently progressing through my certification track, expanding my knowledge in IT fundamentals, networking, and system administration.
 
 ---
 
@@ -36,12 +43,66 @@ More certifications will be added as I complete them.
 
 ---
 
-## 📂 Projects
-I’m actively building hands‑on projects to strengthen my skills. New projects will be added as I complete them.
+## 📚 Currently Learning
+- Networking fundamentals  
+- Linux administration  
+- Windows Server basics  
+- Cybersecurity essentials  
+- Git & GitHub workflow  
 
-- 🔧 Networking labs *(coming soon)*  
-- 🛡️ Cybersecurity practice exercises *(coming soon)*  
-- 💻 System administration tasks *(coming soon)*  
+---
+
+## 🛣️ Learning Roadmap
+
+<details>
+<summary><strong>Click to expand</strong></summary>
+
+### 🔹 Short-Term Goals
+- Complete current MyComputerCareer certification  
+- Build small networking labs  
+- Practice Linux command-line daily  
+
+### 🔹 Mid-Term Goals
+- Create hands-on cybersecurity exercises  
+- Build Windows Server virtual labs  
+- Learn PowerShell scripting  
+
+### 🔹 Long-Term Goals
+- Earn multiple IT certifications  
+- Build a strong project portfolio  
+- Start a career in IT support or system administration  
+
+</details>
+
+---
+
+## 💻 Tech Stack Grid
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## 📂 Projects
+
+<details>
+<summary><strong>Click to expand</strong></summary>
+
+### 🔧 Networking Labs  
+Coming soon
+
+### 🛡️ Cybersecurity Practice  
+Coming soon
+
+### 💻 System Administration Tasks  
+Coming soon
+
+</details>
 
 ---
 
@@ -54,7 +115,7 @@ I’m actively building hands‑on projects to strengthen my skills. New project
 
 ## 🎯 Goals
 - Earn multiple IT certifications  
-- Build a strong portfolio of hands‑on projects  
+- Build a strong portfolio of hands-on projects  
 - Start a career in IT support, networking, or system administration  
 - Continue learning and improving every day  
 
@@ -62,3 +123,4 @@ I’m actively building hands‑on projects to strengthen my skills. New project
 
 ## 🤝 Connect With Me
 More links will be added as I build my professional presence.
+

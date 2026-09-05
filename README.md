@@ -1,51 +1,48 @@
 🌐 Ron Holmes Jr
 IT Student | MyComputerCareer | Future Systems Administrator
-Hi, I’m Ron Holmes Jr, an IT student currently in my second certification class at MyComputerCareer. I’m passionate about technology, cybersecurity, and building a strong foundation in systems, networking, and troubleshooting. My GitHub is where I document my learning journey, share projects, and grow my technical skills.
+Welcome to my GitHub! I’m Ron Holmes Jr, an IT student currently progressing through my certification track at MyComputerCareer. I’m building a strong foundation in networking, system administration, cybersecurity, and hands‑on troubleshooting. This profile showcases my learning journey, projects, and growing skill set.
 
-🚀 About Me
-🎓 IT student at MyComputerCareer
+🧰 Skills & Tools
+Operating Systems
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
-📚 Currently working through my second certification class
+Version Control & Development
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
-💻 Interested in networking, system administration, cybersecurity, and automation
+Networking & IT Fundamentals
+https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white
+https://img.shields.io/badge/Troubleshooting-FF6F00?style=for-the-badge&logo=hackaday&logoColor=white
 
-🔧 Hands‑on learner who enjoys breaking things, fixing them, and understanding how they work
+🎓 Education
+https://img.shields.io/badge/MyComputerCareer-0056A6?style=for-the-badge&logo=graduation-cap&logoColor=white
 
-🌱 Always improving and expanding my technical skill set
+I’m currently in my second certification class, expanding my knowledge in IT fundamentals, networking, and system administration.
 
-🛠️ Skills & Tools
-Here are the technologies I’m learning and working with:
+📜 Certifications (In Progress & Completed)
+https://img.shields.io/badge/IT%20Student-In%20Progress-4CAF50?style=for-the-badge
+https://img.shields.io/badge/Certification%20Track-MyComputerCareer-blue?style=for-the-badge
 
-Operating Systems: Windows, Linux
-
-Networking: TCP/IP, DNS, DHCP, Subnetting
-
-Security: Basic cybersecurity concepts, best practices
-
-Tools: Git, GitHub, Command Line, Virtual Machines
-
-Hardware: PC repair, troubleshooting, system builds
-
-📘 Certifications (In Progress & Completed)
-MyComputerCareer Certification Track
-
-Additional certifications will be added as I complete them
+More certifications will be added as I complete them.
 
 📂 Projects
-I’ll be adding projects here as I complete them — labs, scripts, notes, and anything that shows my progress.
+I’m actively building hands‑on projects to strengthen my skills. New projects will be added as I complete them.
 
-🔧 Coming soon: Networking labs
+🔧 Networking labs (coming soon)
 
-🛡️ Coming soon: Cybersecurity practice projects
+🛡️ Cybersecurity practice exercises (coming soon)
 
-💻 Coming soon: System administration exercises
+💻 System administration tasks (coming soon)
 
-📫 Connect With Me
-If you’d like to follow my journey or connect:
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=ronholmesjr&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=ronholmesjr&layout=compact&theme=tokyonight
 
-GitHub: @ronholmesjr (github.com in Bing)
-
-More links coming soon as I build my professional presence
+📈 Profile Activity
+https://komarev.com/ghpvc/?username=ronholmesjr&style=for-the-badge
+https://img.shields.io/github/followers/ronholmesjr?style=for-the-badge
+https://img.shields.io/github/stars/ronholmesjr?style=for-the-badge
 
 🎯 Goals
 Earn multiple IT certifications
@@ -54,4 +51,7 @@ Build a strong portfolio of hands‑on projects
 
 Start a career in IT support, networking, or system administration
 
-Keep learning every day
+Continue learning and improving every day
+
+🤝 Connect With Me
+More links will be added as I build my professional presence.

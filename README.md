@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **ronholmesjr/ronholmesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,7 +56,7 @@ More links coming soon as I build my professional presence
 Earn multiple IT certifications
 
 Build a strong portfolio of hands‑on projects
-
+](https://github.com/ronholmesjr)
 
 - ⚡ Fun fact: ...
 -->

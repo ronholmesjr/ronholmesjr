@@ -39,11 +39,10 @@ I’m actively building hands‑on projects to strengthen my skills. New project
 ![Ron’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronholmesjr&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronholmesjr&layout=compact&theme=tokyonight)
 
-
-📈 Profile Activity
-https://komarev.com/ghpvc/?username=ronholmesjr&style=for-the-badge
-https://img.shields.io/github/followers/ronholmesjr?style=for-the-badge
-https://img.shields.io/github/stars/ronholmesjr?style=for-the-badge
+### 📈 Profile Activity
+![Profile Views](https://komarev.com/ghpvc/?username=ronholmesjr&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/ronholmesjr?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/ronholmesjr?style=for-the-badge)
 
 🎯 Goals
 Earn multiple IT certifications

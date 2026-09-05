@@ -1,8 +1,3 @@
-[## Hi there 👋
-
-<!--
-**ronholmesjr/ronholmesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🌐 Ron Holmes Jr
 IT Student | MyComputerCareer | Future Systems Administrator
 Hi, I’m Ron Holmes Jr, an IT student currently in my second certification class at MyComputerCareer. I’m passionate about technology, cybersecurity, and building a strong foundation in systems, networking, and troubleshooting. My GitHub is where I document my learning journey, share projects, and grow my technical skills.
@@ -56,7 +51,7 @@ More links coming soon as I build my professional presence
 Earn multiple IT certifications
 
 Build a strong portfolio of hands‑on projects
-](https://github.com/ronholmesjr)
 
-- ⚡ Fun fact: ...
--->
+Start a career in IT support, networking, or system administration
+
+Keep learning every day

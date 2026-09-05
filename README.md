@@ -35,9 +35,6 @@ I’m actively building hands‑on projects to strengthen my skills. New project
 
 💻 System administration tasks (coming soon)
 
-### 📊 GitHub Stats
-![Ron’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronholmesjr&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronholmesjr&layout=compact&theme=tokyonight)
 
 ### 📈 Profile Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=ronholmesjr&style=for-the-badge)

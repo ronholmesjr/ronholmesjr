@@ -77,6 +77,10 @@ A collection of official certifications and badges earned through MyComputerCare
 ### 📄 PDF Version (Optional)
 [Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
 
+
+### 📄 PDF Version (Optional)
+[Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
+
 ---
 
 # 🗂️ Certification Timeline  

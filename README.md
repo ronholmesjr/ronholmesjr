@@ -38,29 +38,46 @@ Currently progressing through my certification track, expanding my knowledge in 
 ## 🏅 Verified Credentials & Badges  
 A collection of official certifications and badges earned through MyComputerCareer and CompTIA.
 
+<!-- Icon Row -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="120" style="margin: 10px; transition: transform 0.2s;" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="120" style="margin: 10px; transition: transform 0.2s;" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="140" style="margin: 10px; border: 3px solid #4CAF50; border-radius: 10px; transition: transform 0.2s;" />
+</p>
+
+<!-- Hover Effect Script -->
+<style>
+img:hover {
+  transform: scale(1.15);
+}
+</style>
+
 ---
 
 ### 🎖️ MyComputerCareer – Pathways Commitment Badge  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="180" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="200" />
 </p>
 
 ---
 
 ### 🛡️ CompTIA ITF+ – Certification Ready Badge  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="180" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="200" />
 </p>
 
 ---
 
 ### 📜 Networking I – Certification  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="220" style="border: 3px solid #4CAF50; border-radius: 10px;" />
+  <div style="border: 4px solid #4CAF50; padding: 20px; border-radius: 12px; display: inline-block; background: #f9f9f9;">
+    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="450" />
+  </div>
 </p>
 
 ### 📄 PDF Version (Optional)  
 [Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
+
 
 ---
 

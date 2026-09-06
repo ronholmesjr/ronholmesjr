@@ -35,50 +35,32 @@ Currently progressing through my certification track, expanding my knowledge in 
 
 ---
 
-# 🏅 Verified Credentials & Badges  
+## 🏅 Verified Credentials & Badges  
 A collection of official certifications and badges earned through MyComputerCareer and CompTIA.
 
 ---
 
-## 🎖️ MyComputerCareer – Pathways Commitment Badge
-<details>
-<summary><strong>View Badge</strong></summary>
-
+### 🎖️ MyComputerCareer – Pathways Commitment Badge  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="400" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="180" />
 </p>
-
-</details>
 
 ---
 
-## 🛡️ CompTIA ITF+ – Certification Ready Badge
-<details>
-<summary><strong>View Badge</strong></summary>
-
+### 🛡️ CompTIA ITF+ – Certification Ready Badge  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="400" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="180" />
 </p>
-
-</details>
 
 ---
 
-## 📜 Networking I – Certification  
-<details>
-<summary><strong>View Certification</strong></summary>
-
+### 📜 Networking I – Certification  
 <p align="center">
-  <div style="border: 4px solid #4CAF50; padding: 20px; border-radius: 12px; display: inline-block; background: #f9f9f9;">
-    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="500" />
-  </div>
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="220" style="border: 3px solid #4CAF50; border-radius: 10px;" />
 </p>
 
-</details>
-
-### 📄 PDF Version (Optional)
+### 📄 PDF Version (Optional)  
 [Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
-
 
 ---
 

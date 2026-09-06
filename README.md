@@ -38,25 +38,11 @@ Currently progressing through my certification track, expanding my knowledge in 
 ## 🏅 Verified Credentials & Badges  
 A collection of official certifications and badges earned through MyComputerCareer and CompTIA.
 
-<!-- Icon Row with Hover Effect -->
+<!-- Icon Row -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png"
-       width="120"
-       style="margin: 10px; transition: transform 0.2s; transform-origin: center;"
-       onmouseover="this.style.transform='scale(1.25)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png"
-       width="120"
-       style="margin: 10px; transition: transform 0.2s; transform-origin: center;"
-       onmouseover="this.style.transform='scale(1.25)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png"
-       width="140"
-       style="margin: 10px; border: 3px solid #4CAF50; border-radius: 10px; transition: transform 0.2s; transform-origin: center;"
-       onmouseover="this.style.transform='scale(1.25)'"
-       onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="120" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="120" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="140" style="margin: 10px; border: 3px solid #4CAF50; border-radius: 10px;" />
 </p>
 
 ---

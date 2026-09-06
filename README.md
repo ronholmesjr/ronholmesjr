@@ -35,11 +35,19 @@ Currently progressing through my certification track, expanding my knowledge in 
 
 ---
 
-## 📜 Certifications (In Progress & Completed)
-![IT Student](https://img.shields.io/badge/IT%20Student-In%20Progress-4CAF50?style=for-the-badge)
-![Certification Track](https://img.shields.io/badge/Certification%20Track-MyComputerCareer-blue?style=for-the-badge)
+## 🏅 Official Certifications & Badges
 
-More certifications will be added as I complete them.
+### 🎖️ MyComputerCareer – Pathways Commitment Badge
+![Pathways Commitment Badge](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png)
+
+### 🛡️ CompTIA ITF+ – Certification Ready Badge
+![CompTIA ITF+ Badge](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png)
+
+### 📜 Networking I – Certification
+![Networking I Certification](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png)
+
+### 📄 PDF Version (Optional)
+[Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
 
 ---
 
@@ -123,4 +131,3 @@ Coming soon
 
 ## 🤝 Connect With Me
 More links will be added as I build my professional presence.
-

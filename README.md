@@ -70,7 +70,7 @@ A collection of official certifications and badges earned through MyComputerCare
 
 <p align="center">
   <div style="border: 4px solid #4CAF50; padding: 20px; border-radius: 12px; display: inline-block; background: #f9f9f9;">
-    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/foundationskillsfor%20ITprofessionals.png" width="500" />
+    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="500" />
   </div>
 </p>
 
@@ -78,6 +78,7 @@ A collection of official certifications and badges earned through MyComputerCare
 
 ### 📄 PDF Version (Optional)
 [Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
+
 
 ---
 

@@ -38,11 +38,49 @@ Currently progressing through my certification track, expanding my knowledge in 
 ## 🏅 Verified Credentials & Badges  
 A collection of official certifications and badges earned through MyComputerCareer and CompTIA.
 
-<!-- Icon Row -->
+<!-- Badge Wall -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="120" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="120" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png" width="140" style="margin: 10px; border: 3px solid #4CAF50; border-radius: 10px;" />
+
+  <!-- Badge 1 -->
+  <div style="
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 0 18px rgba(0, 150, 255, 0.45);
+  ">
+    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png"
+         width="140" />
+  </div>
+
+  <!-- Badge 2 -->
+  <div style="
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 0 18px rgba(0, 150, 255, 0.45);
+  ">
+    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png"
+         width="140" />
+  </div>
+
+  <!-- Badge 3 -->
+  <div style="
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 0 18px rgba(76, 175, 80, 0.55);
+  ">
+    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png"
+         width="160"
+         style="border-radius: 10px;" />
+  </div>
+
 </p>
 
 ---

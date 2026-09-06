@@ -35,19 +35,58 @@ Currently progressing through my certification track, expanding my knowledge in 
 
 ---
 
-## 🏅 Official Certifications & Badges
+# 🏅 Verified Credentials & Badges  
+A collection of official certifications and badges earned through MyComputerCareer and CompTIA.
 
-### 🎖️ MyComputerCareer – Pathways Commitment Badge
-![Pathways Commitment Badge](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png)
+---
 
-### 🛡️ CompTIA ITF+ – Certification Ready Badge
-![CompTIA ITF+ Badge](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png)
+## 🎖️ MyComputerCareer – Pathways Commitment Badge
+<details>
+<summary><strong>View Badge</strong></summary>
 
-### 📜 Networking I – Certification
-![Networking I Certification](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/MyComputerCareer%20-%20Pathways%20Commitment%20-%202026-08-19%20(1).png" width="400" />
+</p>
+
+</details>
+
+---
+
+## 🛡️ CompTIA ITF+ – Certification Ready Badge
+<details>
+<summary><strong>View Badge</strong></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/comptia-fc0-u71-cert-ready.png" width="400" />
+</p>
+
+</details>
+
+---
+
+## 📜 Networking I – Certification  
+<details>
+<summary><strong>View Certification</strong></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/foundationskillsfor%20ITprofessionals.png" width="500" />
+</p>
+
+</details>
 
 ### 📄 PDF Version (Optional)
 [Download Networking I Certification (PDF)](https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/Net%20I%20Cert%208.27.2026%20149.pdf)
+
+---
+
+# 🗂️ Certification Timeline  
+A visual timeline of certifications earned and in progress.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2026-Pathways%20Commitment-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2026-CompTIA%20ITF%2B-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2026-Networking%20I-purple?style=for-the-badge" />
+</p>
 
 ---
 

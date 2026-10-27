@@ -83,6 +83,8 @@ A collection of official certifications and badges earned through MyComputerCare
 
 </p>
 
+- Microsoft AI-901 — passed October 2026
+
 ---
 
 # 🗂️ Certification Timeline  
@@ -97,11 +99,10 @@ A visual timeline of certifications earned and in progress.
 ---
 
 ## 📚 Currently Learning
-- Networking fundamentals  
-- Linux administration  
-- Windows Server basics  
-- Cybersecurity essentials  
-- Git & GitHub workflow  
+- Linux administration & Python programming (final week, Oct 2026)
+- Network+ and Security+ certification prep (starting Nov 2026)
+- Git & GitHub workflow
+
 
 ---
 
@@ -145,6 +146,11 @@ A visual timeline of certifications earned and in progress.
 
 <details>
 <summary><strong>Click to expand</strong></summary>
+  
+### 🎮 Study Games & Quizzes
+
+- [jeopardy-study-game](https://github.com/ronholmesjr/jeopardy-study-game) — Jeopardy-style study game in Python for ITSA classmates (Linux Commands and AI-901 practice), terminal and GUI versions.
+- [ai-901-practice-quiz](https://github.com/ronholmesjr/ai-901-practice-quiz) — Jeopardy-style bash practice quiz for the Microsoft AI-901 exam (25 original practice questions).
 
 ### 🔧 Networking Labs  
 Coming soon
@@ -175,4 +181,5 @@ Coming soon
 ---
 
 ## 🤝 Connect With Me
-More links will be added as I build my professional presence.
+- [LinkedIn](https://www.linkedin.com/in/ron-holmes-jr-22a012211/)
+

@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub-0078D6?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h1 align="center">🌐 Ron Holmes Jr</h1>
-<h3 align="center">IT Student | MyComputerCareer | Future Systems Administrator</h3>
+<h1 align="center">Ron Holmes Jr</h1>
+<h3 align="center">ITSA Student | AI-901 Certified | Linux & Python | Pursuing Network+ & Security+</h3>
 
 <p align="center">
   Building my foundation in IT, networking, cybersecurity, and system administration.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -28,14 +28,14 @@
 
 ---
 
-## 🎓 Education
+## Education
 ![MyComputerCareer](https://img.shields.io/badge/MyComputerCareer-0056A6?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-Currently progressing through my certification track, expanding my knowledge in IT fundamentals, networking, and system administration.
+Student in the My Computer Career ITSA program. First two networking courses passed, Microsoft AI-901 certified (September 2026), now finishing Linux and Python, with Network+ and Security+ certification prep next.
 
 ---
 
-## 🏅 Verified Credentials & Badges  
+## Verified Credentials & Badges
 A collection of official certifications and badges earned through MyComputerCareer and CompTIA.
 
 <!-- Badge Wall -->
@@ -81,24 +81,39 @@ A collection of official certifications and badges earned through MyComputerCare
          style="border-radius: 10px;" />
   </div>
 
+  <!-- Badge 4: AI-901 certificate -->
+  <div style="
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 0 18px rgba(0, 120, 215, 0.55);
+  ">
+    <img src="https://raw.githubusercontent.com/ronholmesjr/ronholmesjr/main/AI-901-Cert.png"
+         width="160"
+         style="border-radius: 10px;" />
+  </div>
+
 </p>
 
-- Microsoft AI-901 — passed October 2026
+- Microsoft AI-901 — passed September 2026
 
 ---
 
-# 🗂️ Certification Timeline  
+# Certification Timeline
 A visual timeline of certifications earned and in progress.
 
 <p align="center">
   <img src="https://img.shields.io/badge/2026-Pathways%20Commitment-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2026-CompTIA%20ITF%2B-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2026-Networking%20I-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2026-Microsoft%20AI--901-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Linux administration & Python programming (final week, Oct 2026)
 - Network+ and Security+ certification prep (starting Nov 2026)
 - Git & GitHub workflow
@@ -106,35 +121,36 @@ A visual timeline of certifications earned and in progress.
 
 ---
 
-## 🛣️ Learning Roadmap
+## Learning Roadmap
 
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-### 🔹 Short-Term Goals
-- Complete current MyComputerCareer certification  
-- Build small networking labs  
-- Practice Linux command-line daily  
+### Short-Term Goals
+- Network+ and Security+ certification prep
+- Build small networking labs
+- Practice Linux command-line daily
 
-### 🔹 Mid-Term Goals
-- Create hands-on cybersecurity exercises  
-- Build Windows Server virtual labs  
-- Learn PowerShell scripting  
+### Mid-Term Goals
+- Create hands-on cybersecurity exercises
+- Build Windows Server virtual labs
+- Learn PowerShell scripting
 
-### 🔹 Long-Term Goals
-- Earn multiple IT certifications  
-- Build a strong project portfolio  
-- Start a career in IT support or system administration  
+### Long-Term Goals
+- Earn multiple IT certifications
+- Build a strong project portfolio
+- Start a career in IT support or system administration
 
 </details>
 
 ---
 
-## 💻 Tech Stack Grid
+## Tech Stack Grid
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -142,44 +158,43 @@ A visual timeline of certifications earned and in progress.
 
 ---
 
-## 📂 Projects
+## Projects
 
 <details>
 <summary><strong>Click to expand</strong></summary>
-  
-### 🎮 Study Games & Quizzes
+
+### Study Games & Quizzes
 
 - [jeopardy-study-game](https://github.com/ronholmesjr/jeopardy-study-game) — Jeopardy-style study game in Python for ITSA classmates (Linux Commands and AI-901 practice), terminal and GUI versions.
 - [ai-901-practice-quiz](https://github.com/ronholmesjr/ai-901-practice-quiz) — Jeopardy-style bash practice quiz for the Microsoft AI-901 exam (25 original practice questions).
 
-### 🔧 Networking Labs  
+### Networking Labs
 Coming soon
 
-### 🛡️ Cybersecurity Practice  
+### Cybersecurity Practice
 Coming soon
 
-### 💻 System Administration Tasks  
+### System Administration Tasks
 Coming soon
 
 </details>
 
 ---
 
-## 📈 Profile Activity
+## Profile Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=ronholmesjr&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/ronholmesjr?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/ronholmesjr?style=for-the-badge)
 
 ---
 
-## 🎯 Goals
-- Earn multiple IT certifications  
-- Build a strong portfolio of hands-on projects  
-- Start a career in IT support, networking, or system administration  
-- Continue learning and improving every day  
+## Goals
+- Earn multiple IT certifications
+- Build a strong portfolio of hands-on projects
+- Start a career in IT support, networking, or system administration
+- Continue learning and improving every day
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ron-holmes-jr-22a012211/)
-
